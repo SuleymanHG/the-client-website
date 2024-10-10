@@ -30,7 +30,7 @@ in de header staan de links naar de verschillende pagina's die de site gaat hebb
 In de main hebben we een infinite canvas waar je horizontaal en verticaal doorheen kan scrollen. Je gaat alle verschillende kunstwerken de er zijn zien.
 De canvas is volledig gemaakt met HTML en CSS.
 
-In de main hebben we een <ul> waar alle content van de canvas terecht komt. De foto's zijn allemaal <li> tags.
+In de main hebben we een [https://github.com/SuleymanHG/the-client-website/blob/main/index.html#L23-L28] ul waar alle content van de canvas terecht komt. De foto's zijn allemaal li tags.
 
 
 ## Licentie
