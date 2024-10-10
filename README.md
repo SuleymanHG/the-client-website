@@ -37,6 +37,7 @@ Main Layout
 Positie en scrollgedrag: Het main-element is ingesteld op relative en kan overloop van inhoud aan, met zowel horizontaal als verticaal scrollen.
 Scroll-snapping: De eigenschap scroll-snap-type: both mandatory zorgt voor een "snappy" scroll-ervaring, waarbij de inhoud netjes uitlijnt tijdens het scrollen.
 Overige eigenschappen: overscroll-behavior: contain voorkomt dat het scrollen de omliggende inhoud beïnvloedt.
+
 ![Schermafbeelding 2024-10-10 102541](https://github.com/user-attachments/assets/8a462e51-29b8-4856-b378-79d430d3c2af)
 
 ## Licentie
