@@ -16,7 +16,7 @@ De pagina heeft een "infinite" canvas waar je door heen kan scrollen.
 
 ![Schermafbeelding 2024-10-10 093830](https://github.com/user-attachments/assets/8e7c40a6-dabb-4a8a-b25e-5f8eeaab7625)
 
-Hier is de link:
+Hier is de link:https://suleymanhg.github.io/the-client-website/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
