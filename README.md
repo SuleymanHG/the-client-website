@@ -18,9 +18,19 @@ De pagina heeft een "infinite" canvas waar je door heen kan scrollen.
 
 Hier is de link:https://suleymanhg.github.io/the-client-website/
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+# Kenmerken
+De site is gemaakt het HTML en CSS.
+## BODY
+De structuur van de body is Header, main en footer.
 
+### Header
+in de header staan de links naar de verschillende pagina's die de site gaat hebben. 
+
+### MAIN
+In de main hebben we een infinite canvas waar je horizontaal en verticaal doorheen kan scrollen. Je gaat alle verschillende kunstwerken de er zijn zien.
+De canvas is volledig gemaakt met HTML en CSS.
+
+In de main hebben we een <ul> waar alle content van de canvas terecht komt. De foto's zijn allemaal <li> tags.
 
 
 ## Licentie
